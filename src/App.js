@@ -170,6 +170,7 @@ function App() {
 				<Doggy width="200px" height="200px" />
 				{/* <Cat width="200px" height="200px" />
 				<Doggy width="200px" height="200px" /> */}
+        
 				<Cat width="200px" height="200px" />
 				<Doggy width="200px" height="200px" />
         <Cat width="200px" height="200px" />
