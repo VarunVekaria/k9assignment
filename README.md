@@ -1,4 +1,4 @@
 # ChartJS
 
 
-![alt text](https://github.com/VarunVekaria/k9assignment/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/VarunVekaria/k9assignment/blob/main/k9.png?raw=true)
